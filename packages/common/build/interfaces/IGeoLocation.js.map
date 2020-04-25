@@ -1,0 +1,1 @@
+{"version":3,"file":"IGeoLocation.js","sourceRoot":"","sources":["../../src/interfaces/IGeoLocation.ts"],"names":[],"mappings":";;AAgBA,SAAgB,eAAe;IAC9B,OAAO;QACN,SAAS,EAAE,IAAI;QACf,IAAI,EAAE,EAAE;QACR,QAAQ,EAAE,EAAE;QACZ,aAAa,EAAE,EAAE;QACjB,KAAK,EAAE,EAAE;KACT,CAAC;AACH,CAAC;AARD,0CAQC"}

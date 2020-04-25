@@ -1,0 +1,48 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.environment = {
+    production: false,
+    VERSION: '1.0.0',
+    PRODUCTS_VIEW_TYPE: 'slides',
+    ORDER_INFO_TYPE: 'page',
+    API_FILE_UPLOAD_URL: 'https://api.cloudinary.com/v1_1/evereq/upload',
+    INVITE_BY_CODE_LOGO: 'assets/imgs/logo.png',
+    NO_INTERNET_LOGO: 'assets/imgs/logo.png',
+    COMPANY_NAME: 'Ever Co. LTD',
+    GOOGLE_MAPS_API_KEY: '',
+    GOOGLE_ANALYTICS_API_KEY: '',
+    FAKE_UUID: '554990bf-ab3d-4d54-9252-5cf8c4eee2d6',
+    MIXPANEL_API_KEY: '',
+    DEFAULT_LANGUAGE: 'en-US',
+    DEFAULT_LOCALE: 'en-US',
+    DELIVERY_TIME_MIN: 30,
+    DELIVERY_TIME_MAX: 60,
+    SUPPORT_NUMBER: '0888888888',
+    STRIPE_PUBLISHABLE_KEY: '',
+    STRIPE_POP_UP_LOGO: 'https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2016/Jan/30/1263967991-1-everbie-avatar.png',
+    MAP_MERCHANT_ICON_LINK: 'http://maps.google.com/mapfiles/kml/pal3/icon21.png',
+    MAP_USER_ICON_LINK: 'http://maps.google.com/mapfiles/kml/pal3/icon48.png',
+    MAP_CARRIER_ICON_LINK: 'http://maps.google.com/mapfiles/kml/pal4/icon54.png',
+    DEFAULT_LATITUDE: 42.6459136,
+    DEFAULT_LONGITUDE: 23.3332736,
+    GQL_ENDPOINT: 'http://localhost:5555/graphql',
+    GQL_SUBSCRIPTIONS_ENDPOINT: 'ws://localhost:5050/subscriptions',
+    SERVICES_ENDPOINT: 'http://localhost:5500',
+    HTTPS_SERVICES_ENDPOINT: 'https://localhost:5501',
+    FAKE_INVITE: {
+        ID: '1ae9d04f9010d834f8906881',
+        CITY: 'Sofia',
+        POSTCODE: '1700',
+        ADDRESS: 'Simeonovsko shose',
+        HOUSE: '104',
+        CREATED_AT: '2018-05-02T14:50:55.658Z',
+        UPDATED_AT: '2018-05-02T14:50:55.658Z',
+        APARTMENT: '3',
+        CODE: 8321,
+        COUNTRY_ID: 21
+    },
+    SETTINGS_APP_TYPE: 'shop-mobile',
+    SETTINGS_MAINTENANCE_API_URL: '',
+    MERCHANT_IDS: []
+};
+//# sourceMappingURL=environment.prod.js.map

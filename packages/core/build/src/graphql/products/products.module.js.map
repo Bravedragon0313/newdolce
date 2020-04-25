@@ -1,0 +1,1 @@
+{"version":3,"file":"products.module.js","sourceRoot":"","sources":["../../../../src/graphql/products/products.module.ts"],"names":[],"mappings":";;;AAAA,2CAAwC;AACxC,yDAAqD;AACrD,wFAAmF;AAMnF,IAAa,cAAc,GAA3B,MAAa,cAAc;CAAG,CAAA;AAAjB,cAAc;IAJ1B,eAAM,CAAC;QACP,OAAO,EAAE,CAAC,qDAAwB,CAAC;QACnC,SAAS,EAAE,CAAC,kCAAe,CAAC;KAC5B,CAAC;GACW,cAAc,CAAG;AAAjB,wCAAc"}
